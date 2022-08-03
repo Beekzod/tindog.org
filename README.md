@@ -1,1 +1,1 @@
-# tindog.org
+# tindog
